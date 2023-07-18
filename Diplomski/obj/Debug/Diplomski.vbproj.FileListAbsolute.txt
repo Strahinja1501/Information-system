@@ -1,0 +1,77 @@
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.vbproj.AssemblyReference.cache
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.LogIn.resources
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.Resources.resources
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.vbproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.vbproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\bin\Debug\Diplomski.exe.config
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\bin\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\bin\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\bin\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.Admin.resources
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.Zaposleni.resources
+C:\Users\Strahinja\Desktop\Novi diplomski\Nova aplikacija\Diplomski\Diplomski\obj\Debug\Diplomski.Magacin.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\bin\Debug\Diplomski.exe.config
+C:\Users\Strahinja\Desktop\New folder\Diplomski\bin\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\New folder\Diplomski\bin\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\New folder\Diplomski\bin\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.vbproj.AssemblyReference.cache
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.Admin.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.LogIn.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.Magacin.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.Resources.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.Zaposleni.resources
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.vbproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.vbproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\New folder\Diplomski\obj\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.exe.config
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.AssemblyReference.cache
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Admin.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.LogIn.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Magacin.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Resources.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Zaposleni.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.SINGUP.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Musterija.resources
+C:\Users\Strahinja\Desktop\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Porudzbenica.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.exe.config
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\bin\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.AssemblyReference.cache
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Admin.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Resources.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.SINGUP.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Zaposleni.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.exe
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.xml
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.pdb
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.vbproj.CopyComplete
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Artikli.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Musterijaa.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.LogIn.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Musterije.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Porudzbenica.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Klime.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Delovi.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Porudzbenice.resources
+C:\Users\Strahinja\Desktop\Diplomski\Aplikacija\Promena na novu bazu\Diplomski\obj\Debug\Diplomski.Izvestaj.resources

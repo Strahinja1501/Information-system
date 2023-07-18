@@ -1,0 +1,82 @@
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('PORUDZBENICA') and o.name = 'FK_PORUDZBE_REFERENCE_KORISNIK')
+alter table PORUDZBENICA
+   drop constraint FK_PORUDZBE_REFERENCE_KORISNIK
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('PORUDZBENICA') and o.name = 'FK_PORUDZBE_REFERENCE_ARTIKLI')
+alter table PORUDZBENICA
+   drop constraint FK_PORUDZBE_REFERENCE_ARTIKLI
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('ARTIKLI')
+            and   type = 'U')
+   drop table ARTIKLI
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('KORISNIK')
+            and   type = 'U')
+   drop table KORISNIK
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('PORUDZBENICA')
+            and   type = 'U')
+   drop table PORUDZBENICA
+go
+
+/*==============================================================*/
+/* Table: ARTIKLI                                               */
+/*==============================================================*/
+create table ARTIKLI (
+   ID_ARTIKLA           integer              not null,
+   ID_MAGACINA          integer              not null,
+   constraint PK_ARTIKLI primary key (ID_ARTIKLA)
+)
+go
+
+/*==============================================================*/
+/* Table: KORISNIK                                              */
+/*==============================================================*/
+create table KORISNIK (
+   ID_KORISNIKA         int                  not null,
+   IME_KORISNIKA        varchar(32)          not null,
+   PREZIME_KORISNIKA    varchar(32)          not null,
+   MAIL_KORISNIKA       varchar(32)          not null,
+   BROJ_TELEFONA_KORISNIKA varchar(32)          not null,
+   ADRESA_KORISNIKA     varchar(32)          not null,
+   USERNAME             varchar(32)          not null,
+   PASSWORD             varchar(32)          not null,
+   TIM_KORISNIKA        char(1)              not null,
+   constraint PK_KORISNIK primary key nonclustered (ID_KORISNIKA)
+)
+go
+
+/*==============================================================*/
+/* Table: PORUDZBENICA                                          */
+/*==============================================================*/
+create table PORUDZBENICA (
+   ID_PORUDZBENICE      integer              not null,
+   ID_KORISNIKA         integer              null,
+   ID_ARTIKLA           integer              null,
+   constraint PK_PORUDZBENICA primary key (ID_PORUDZBENICE)
+)
+go
+
+alter table PORUDZBENICA
+   add constraint FK_PORUDZBE_REFERENCE_KORISNIK foreign key (ID_KORISNIKA)
+      references KORISNIK (ID_KORISNIKA)
+go
+
+alter table PORUDZBENICA
+   add constraint FK_PORUDZBE_REFERENCE_ARTIKLI foreign key (ID_ARTIKLA)
+      references ARTIKLI (ID_ARTIKLA)
+go
